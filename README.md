@@ -1,0 +1,2 @@
+# CustomerSegmentationforE-commercePersonalization
+CustomerSegmentationforE-commercePersonalization for electropi.ai
